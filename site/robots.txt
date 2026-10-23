@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vectordesigngroup.github.io/jordan-glen-school-site/sitemap.xml
